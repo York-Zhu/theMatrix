@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Electron cache
+.electron/
+
+# PyInstaller build files
+*.spec
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
